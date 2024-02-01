@@ -13,3 +13,4 @@
 - 公司官网（liruan.cn）；
 - 快鸟云官网（kny.cn）；
 - 客户管理系统（user.liruan.cn）；
+- 个人博客（frontend.cn）；
