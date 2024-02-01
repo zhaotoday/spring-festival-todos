@@ -11,4 +11,4 @@
 - Nuxt.js 框架整理；
 - 公司官网（liruan.cn）；
 - 快鸟云官网（kny.cn）；
-- 客户管理系统；
+- 客户管理系统（user.liruan.cn）；
