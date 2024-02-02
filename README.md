@@ -16,4 +16,4 @@
 - 个人博客（frontend.cn）；
 - 安利网（amway.vip）；
 - 木业网（haomucai.cn）；
-- Electron 框架整理；
+- Electron 框架整理：构建、GitLab CI/CD、安装器、升级；
