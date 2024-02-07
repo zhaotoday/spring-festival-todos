@@ -19,3 +19,4 @@
 - Electron 框架整理：构建、GitLab CI/CD、安装器、升级；
 - 福州大学虚拟仿真实验室（airobot.fzu.edu.cn）；
 - 对接 v3 版微信支付；
+- 北斗 H5 对接 JSSDK；
